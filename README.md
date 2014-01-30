@@ -1,7 +1,7 @@
 squares.js
 ==========
 
-Easily create HTML objects via Javascript
+Easily create HTML elements via Javascript
 
 HTML tags (HTML, DIV, IMG, SPAN etc) are valuable for creating HTML elements, MVC view templates and nicely facilitate designer/developer handoff.  While HTML tags are useful, it is sometimes easier to simply code an HTML element using javascript.  
 
@@ -14,4 +14,4 @@ An \<input\> is a rectangle
 
 A Web page or a dynamic javascript control is simply is a bunch of rectangles nested inside of eachother with fancy stuff like styles, rounded corners, or animation. 
 
-Squares.js makes it easy to create and nest rectangles using pure javascript.  Helpful in creating dynamic, motion packed controls (think spin.js) or embedded in javascript frameworks (ie. a custom angular.js directive) 
+Squares.js makes it easy to create and nest rectangles using pure javascript.  This is useful in creating dynamic, motion packed controls (think spin.js) or embedded in javascript frameworks (like a custom angular.js directive) 
