@@ -14,4 +14,4 @@ An \<input\> is a rectangle
 
 A Web page or a dynamic javascript control is simply is a bunch of rectangles nested inside of eachother with fancy stuff like styles, rounded corners, or animation. 
 
-Squares.js makes it easy to create and nest rectangles using pure javascript.  Helpful in creating dynamic, motion packed controls (think spin.js) or embedded in javascript frameworks (ie. a custom angular.js directive) without having to waste energy with DOM selectors.  
+Squares.js makes it easy to create and nest rectangles using pure javascript.  Helpful in creating dynamic, motion packed controls (think spin.js) or embedded in javascript frameworks (ie. a custom angular.js directive) 
