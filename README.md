@@ -7,10 +7,11 @@ HTML tags (HTML, DIV, IMG, SPAN etc) are valuable for creating HTML elements, MV
 
 Squares.js simplifies the way you think about HTML elements with the view that they are all simply a bunch squares nested inside of eachother (ok, they are actually rectangles).  
 
-A \<IMG\> is a rectangle
-A <div> is a rectangle
-A <form> is a rectangle
-A <input> is a rectangle
-A Web page or a dynamic javascript control is simply is a bunch of these nested inside of eachother. 
+An \<img\> is a rectangle
+A \<div\> is a rectangle
+A \<form\> is a rectangle
+An \<input\> is a rectangle
 
-Squares.js makes it easy to create and nest rectangles using pure javascript.  Helpful in creating dynamic, motion packed controls (think spin.js) or embedded in javascript frameworks (ie. a custom angular.js directive). 
+A Web page or a dynamic javascript control is simply is a bunch of these nested inside of eachother wich fancy stuff like rounded corners, or motion. 
+
+Squares.js makes it easy to create and nest rectangles using pure javascript.  Helpful in creating dynamic, motion packed controls (think spin.js) or embedded in javascript frameworks (ie. a custom angular.js directive) without having to waste energy with DOM selectors.  
