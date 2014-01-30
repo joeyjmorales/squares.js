@@ -17,6 +17,5 @@ A Web page or a dynamic javascript control is simply is a bunch of rectangles ne
 
 Squares.js makes it easy to create and nest rectangles using pure javascript.  This is useful in creating dynamic, motion packed controls (think spin.js) or embedded in javascript frameworks (like a custom angular.js directive).  
 
-Why does this help with dynamic, animated controls?
-
-Once you have masterfully created your nested rectangular work of art, squares.js helps keep code handles on all rectangular building blocks so you can easily move, resize, restyle, hide or show them, creating a ver dynamic coding experience. 
+<b>Why does this help with dynamic, animated controls?</b>
+Once you have created your nested rectangular masterpiece, squares.js helps keep code handles and scope on all rectangular building blocks so you can easily move, resize, restyle, hide or show them, building very dynamic javscript controls.  
