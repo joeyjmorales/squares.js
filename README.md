@@ -7,7 +7,7 @@ HTML tags (HTML, DIV, IMG, SPAN etc) are valuable for creating HTML elements, MV
 
 Squares.js simplifies the way you think about HTML elements with the view that they are all simply a bunch squares nested inside of eachother (ok, they are actually rectangles).  
 
-A <img> is a rectangle
+A \<IMG\> is a rectangle
 A <div> is a rectangle
 A <form> is a rectangle
 A <input> is a rectangle
